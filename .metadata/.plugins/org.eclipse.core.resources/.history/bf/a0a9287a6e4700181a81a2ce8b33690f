@@ -13,7 +13,7 @@ public class GrammarType {
         while (i.hasNext()) {
         	Production p = i.next();
         	//jump if right side == empty && left in Startsymbol
-        	// not sure if .contains safe
+        	// 不确定contains能不能用
         	if((p.getRightSide().length()==0)&&(p.getLeftSide().length()==1)&&
         			(g.getStartingSymbol().toString() .contains(p.getRightSide().toString()))){
         		continue;
@@ -49,7 +49,7 @@ public class GrammarType {
     	Iterator<Production> i = g.getProductions().iterator();
         while (i.hasNext()) {
         	Production p = i.next();
-        	// not sure if .contains safe
+        	// 不确定contains能不能用
         	if((p.getRightSide().length()==0)&&(p.getLeftSide().length()==1)&&
         			(g.getStartingSymbol().toString() .contains(p.getRightSide().toString()))){
         		continue;
@@ -76,21 +76,6 @@ public class GrammarType {
         }
         return true;
     }
-    /*Grammar
-    Nonterminals: A
-    Alphabet: a,b,c
-    Startsymbol: A
-    Productions:
-    A -> a|b|c
-    END*/
-    
-    /*Grammar
-    Nonterminals: A
-    Alphabet: a,b,c
-    Startsymbol: A
-    Productions:
-    A -> Aa|
-    END*/
 
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);

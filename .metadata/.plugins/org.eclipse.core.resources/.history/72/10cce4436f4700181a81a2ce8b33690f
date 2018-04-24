@@ -89,7 +89,7 @@ public class GrammarType {
     Alphabet: a,b,c
     Startsymbol: A
     Productions:
-    A -> Aa|
+    A -> |aa
     END*/
 
     public static void main(String[] args){
