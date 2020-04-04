@@ -15,7 +15,8 @@ public class Producer implements Runnable {
 			cup.put(i);
 			System.out.println("Producer #" + this.number + " put: " + i);
 			try {
-				Thread.sleep((long) (100 * Math.random()));
+//				Thread.sleep((long) (100 * Math.random()));
+				Thread.sleep(100);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}

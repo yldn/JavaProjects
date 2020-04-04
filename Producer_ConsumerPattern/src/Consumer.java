@@ -16,7 +16,8 @@ public class Consumer implements Runnable {
 		for (int i = 0; i < 10; i++) {
 
 			try {
-				Thread.sleep((long) (200 * Math.random()));
+//				Thread.sleep((long) (200 * Math.random()));
+				Thread.sleep(2000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
