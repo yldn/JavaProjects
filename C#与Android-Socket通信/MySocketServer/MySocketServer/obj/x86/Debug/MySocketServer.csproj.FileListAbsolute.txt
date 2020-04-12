@@ -1,0 +1,9 @@
+F:\CSharp_http\MySocketServer\MySocketServer\bin\Debug\MySocketServer.exe
+F:\CSharp_http\MySocketServer\MySocketServer\bin\Debug\MySocketServer.pdb
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\MySocketServer.FormServer.resources
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\MySocketServer.Properties.Resources.resources
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\MySocketServer.exe
+F:\CSharp_http\MySocketServer\MySocketServer\obj\x86\Debug\MySocketServer.pdb
