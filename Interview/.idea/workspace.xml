@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dacf38e-1955-4830-8277-ae8b16fd3df7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaTutorials/src/StreamTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer_ConsumerPattern/src/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer_ConsumerPattern/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer_ConsumerPattern/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer_ConsumerPattern/src/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/bin/Debug/MySocketServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/bin/Debug/MySocketServer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/bin/Debug/MySocketServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/bin/Debug/MySocketServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/obj/x86/Debug/MySocketServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/obj/x86/Debug/MySocketServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/obj/x86/Debug/MySocketServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/obj/x86/Debug/MySocketServer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/obj/x86/Debug/MySocketServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C#与Android-Socket通信/MySocketServer/MySocketServer/obj/x86/Debug/MySocketServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithraed/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithraed/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer_ConsumerPattern/bin/Quicksort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Producer_ConsumerPattern/bin/Quicksort.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>i</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>input.charAt(i)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="247" />
+    <option name="y" value="598" />
+    <option name="width" value="1400" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dacf38e-1955-4830-8277-ae8b16fd3df7" name="Default Changelist" comment="" />
+      <created>1591353032919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591353032919</updated>
+      <workItem from="1591353034226" duration="6501000" />
+      <workItem from="1591756136576" duration="1192000" />
+      <workItem from="1593429976353" duration="17000" />
+      <workItem from="1601507045398" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="247" y="598" width="1400" height="996" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908458" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976826" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32908458" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#142#188#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
